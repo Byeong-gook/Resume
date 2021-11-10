@@ -45,12 +45,13 @@ ___
 PHP
 
 - 프로젝트시 메인 언어로 사용/ xampp 프로그램 활용하여 로컬서버에서 웹페이지 구축
-MVC 패턴을 사용하여 FINKICK 웹사이트 제작 경험 / PHP CURL 및  API를 통해 데이터 JSON형태로 주고 받는 작업
+- PHP CURL 및 AJAX를 사용 서버와 
 
-MysqliDb 라이브러리 사용
+- MysqliDb 라이브러리 사용
 
-편소공 - 편집자를위한 소통공간 (PHP , JavaScript , Bootstrap Template 기반의 웹페이지 제작경험)
-Finkick - 공공 킥보드 지문인식 시스템 도입 (ANDROID, IOS, WEB) 에서 WEB 개발 담당  (PHP , JavaScript , Bootstrap Template 기반의 웹페이지 제작경험)
+- 편소공 : 편집자를위한 소통공간 (PHP , JavaScript , Bootstrap Template 기반의 웹페이지 제작경험) [개인 프로젝트]
+- Finkick : 공공 킥보드 지문인식 시스템 도입 (ANDROID, IOS, WEB) 에서 WEB 개발 담당  [팀 프로젝트]
+- (PHP , JavaScript , Bootstrap Template 기반의 웹페이지) 
 
 ___
 
@@ -63,7 +64,7 @@ ___
 
 Java
 
-- Swing 활용 GUI를 통해 학생관리시스템 제작 / 교내 프로젝트
+- Swing 활용 GUI를 통해 학생관리시스템 제작 [교내 프로젝트]
 
 - HTTP 웹 기본지식
 
@@ -72,8 +73,7 @@ Java
 
 - REST API 사용하여 ANDROID,IOS WEB에서 사용할수있는 JSON 형식의 응답 게시판 공공데이터 API 명세서 제작
 
-Cosiguk - (코시국 - 코로나정보 커뮤니티) Spirng Boot 기반 Web 백엔드 개발담당 (라즈베리파이 개인 서버 및 도메인 구축 , API 및 DB 담당) / 팀 프로젝트
-
+- Cosiguk : (코시국 - 코로나정보 커뮤니티) Spirng Boot 기반 Web 백엔드 개발담당 [팀 프로젝트]
 ___
 
 mySQL
