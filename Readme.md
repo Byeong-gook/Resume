@@ -13,7 +13,7 @@ ___
 
 - email : jinbongsu2@naver.com
 
-- github : github.com/Byenog-gook
+- github : github.com/Byeong-gook
 
 ### 회사경력
 ___
