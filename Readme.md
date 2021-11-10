@@ -45,7 +45,7 @@ ___
 PHP
 
 - 프로젝트시 메인 언어로 사용/ xampp 프로그램 활용하여 로컬서버에서 웹페이지 구축
-- PHP CURL 및 AJAX를 사용 서버와 
+- PHP CURL
 
 - MysqliDb 라이브러리 사용
 
