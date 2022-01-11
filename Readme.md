@@ -17,9 +17,6 @@ ___
 
 ### 회사경력
 ___
-
-2022.01.01 ~ (주) 트론트 근무
-
 ### 수상 경력
 ___
 
@@ -83,7 +80,19 @@ ___
 mySQL
 
 - 서버 및 DB 활용을 위해 MariaDB HeidSQL 프로그램 사용경험
+___
 
+Linux , Shellscript
+
+- Vmware , MobaXterm , Putty , FileZila 프로그램 사용경험 有
+
+라즈베리파이를 사용하여
+- Centos7 , Tomcat8.5(Web App , Nginx(Web Server) 해당 기반으로 서비스를 구축 및 도메인을 구입하여 코시국 프로젝트 실서버 운용중 (2022-02 .. 앱 출시 계획)
+
+Linux를 통해 로그 분석 및 파일 백업등 작업 경험
+
+ShellScript
+- Cron 기능활용하여 특정시간에 로그파일 압축후 자동 백업기능 활용경험
 
 ### 사용기술
 
