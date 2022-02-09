@@ -13,7 +13,7 @@ ___
 
 - email : jinbongsu2@naver.com
 
-- github : github.com/Byeong-gook
+- github : https://github.com/Byeong-gook
 
 - blog : https://byeong-gook.tistory.com/
 
