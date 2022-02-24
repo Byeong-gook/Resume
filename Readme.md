@@ -15,8 +15,6 @@ ___
 
 - github : https://github.com/Byeong-gook
 
-- blog : https://byeong-gook.tistory.com/
-
 ### 회사경력
 ___
 ### 수상 경력
