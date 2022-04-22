@@ -49,7 +49,7 @@ ___
 PHP
 
 - 프로젝트시 메인 언어로 사용/ xampp 프로그램 활용하여 로컬서버에서 웹페이지 구축
-- PHP CURL
+- PHP CURL , Ajax 기술 사용
 
 - MysqliDb 라이브러리 사용
 
@@ -75,7 +75,10 @@ Java
 - Spirng - Lombok , Thymeleaf 사용경험 
 - Spring Boot - Gradle툴 , JPA,JPQL을 사용하여 게시판 제작 , BaseTimeEntity , ResponseEntity 등 
 
-- REST API 사용하여 ANDROID,IOS WEB에서 사용할수있는 JSON 형식의 응답 게시판 공공데이터 API 명세서 제작
+- MVC 패턴 SpringBoot 기반으로 백엔드 코드 작업 
+- ANDROID,IOS, WEB 3가지 플랫폼에서 사용할수있는 JSON 형식의 응답 게시판 공공데이터 REST API 명세서 제작
+
+
 
 - Cosiguk : (코시국 - 코로나정보 커뮤니티) Spirng Boot 기반 Web 백엔드 개발담당 [팀 프로젝트]
 ___
@@ -88,22 +91,19 @@ ___
 Linux , Shellscript
 
 - Vmware , MobaXterm , Putty , FileZila 프로그램 사용경험 有
+- 2022/01/01 ~ : (주) 트론트 - 미들웨어 운영 엔지니어로 근무
+
 
 라즈베리파이를 사용하여
-- Centos7 , Tomcat8.5(Web App , Nginx(Web Server) 해당 기반으로 서비스를 구축 및 도메인을 구입하여 코시국 프로젝트 실서버 운용중 (2022-02 .. 앱 출시 계획)
-
-Linux를 통해 로그 분석 및 파일 백업등 작업 경험
-
-ShellScript
-- Cron 기능활용하여 특정시간에 로그파일 압축후 자동 백업기능 활용경험
+- Centos7 , Tomcat8.5(Web App , Nginx(Web Server) 해당 기반으로 서비스를 구축 및 도메인을 구입하여 코시국 프로젝트 실서버 운용중
 
 ___
 
 Python
 
-openpyxl 라이브러리 사용
-txt 파일 데이터를 정제하여 엑셀 프로그램 자동화 경험
-有
+주식 자동화 AI 매매 개발 경험
+엑셀 문서작업 자동화 개발 경험 (xlWings , OpenPyXL 라이브러리) 
+
 ### 사용기술
 
 ___
@@ -123,7 +123,9 @@ ___
 
 **FinKick**
 
-핀킥
+핀킥 (킥보드 지문인식 시스템)
+
+
 
 - 캡스톤 디자인으로 시작된 프로젝트
 
@@ -141,10 +143,11 @@ ___
 
 - 서버(백엔드) 및 DB 관리 및 총괄 담당(SpringBoot,JPA,Thyemeleaf 사용) / 프론트(React) / 안드로이드 / IOS 로 파트를 나눠 팀원 4명이서 개발
 
-- 서버및 DB 관리 및 총괄을 담당
-
+- 서버 ,DB 관리 및 REST API 명세서 제작 및 개발
+- 
 - 기간 : 2021.06 ~ 2021.11
 
+https://github.com/Byeong-gook/cosiguk
 
 ### 타인평가
 
