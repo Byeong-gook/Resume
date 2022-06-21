@@ -72,10 +72,9 @@ Java
 
 - HTTP 웹 기본지식
 
-- Spirng - Lombok , Thymeleaf 사용경험 
-- Spring Boot - Gradle툴 , JPA,JPQL을 사용하여 게시판 제작 , BaseTimeEntity , ResponseEntity 등 
-
-- MVC 패턴 SpringBoot 기반으로 백엔드 코드 작업 
+- Spirng  
+- Spring Boot 
+- JDBC , JPA , Thyemeleaf 
 - ANDROID,IOS, WEB 3가지 플랫폼에서 사용할수있는 JSON 형식의 응답 게시판 공공데이터 REST API 명세서 제작
 
 
