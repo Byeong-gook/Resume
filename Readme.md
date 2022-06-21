@@ -61,14 +61,13 @@ ___
 
 JavaScript,JQuery
 
-- 학교 수업 및 프로젝트시 사용경험 / AJAX 를 사용하여 클라이언트 와 서버간 통신
-
-- 정규식 및 간단한 JavaScript 함수 정의 및 구현 경험 
+- Ajax
 ___
 
 Java
 
 - Swing 활용 GUI를 통해 학생관리시스템 제작 [교내 프로젝트]
+- Cosiguk : (코시국 - 코로나정보 커뮤니티) Spirng Boot 기반 Web 백엔드 개발담당 [팀 프로젝트]
 
 - HTTP 웹 기본지식
 
@@ -77,9 +76,6 @@ Java
 - JDBC , JPA , Thyemeleaf 
 - ANDROID,IOS, WEB 3가지 플랫폼에서 사용할수있는 JSON 형식의 응답 게시판 공공데이터 REST API 명세서 제작
 
-
-
-- Cosiguk : (코시국 - 코로나정보 커뮤니티) Spirng Boot 기반 Web 백엔드 개발담당 [팀 프로젝트]
 ___
 
 mySQL
@@ -89,19 +85,18 @@ ___
 
 Linux , Shellscript
 
-- Vmware , MobaXterm , Putty , FileZila 프로그램 사용경험 有
-- 2022/01/01 ~ : (주) 트론트 - 미들웨어 운영 엔지니어로 근무
-
+- Vmware , MobaXterm , Putty , FileZila
+- Shellscript를 활용한 자동화 코드
 
 라즈베리파이를 사용하여
-- Centos7 , Tomcat8.5(Web App , Nginx(Web Server) 해당 기반으로 서비스를 구축 및 도메인을 구입하여 코시국 프로젝트 실서버 운용중
+- Centos7 , Tomcat8.5(Web App , Nginx(Web Server) 코시국 프로젝트 배포
 
 ___
 
 Python
 
-주식 자동화 AI 매매 개발 경험
-엑셀 문서작업 자동화 개발 경험 (xlWings , OpenPyXL 라이브러리) 
+주식 자동화 AI 매매 
+엑셀 문서작업 자동화 개발 경험 (xlWings , OpenPyXL) 
 
 ### 사용기술
 
