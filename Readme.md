@@ -142,7 +142,7 @@ ___
 - 
 - 기간 : 2021.06 ~ 2021.11
 
--[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
+-[코시국 프로젝트 링크]([http://zeldahagoshipda.com](https://github.com/Byeong-gook/cosiguk)
 https://github.com/Byeong-gook/cosiguk
 
 ### 타인평가
