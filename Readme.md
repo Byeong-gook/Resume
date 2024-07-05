@@ -130,11 +130,15 @@ ___
 
 - 기간 : 2021.3 ~ 2021.6
 
+-[핀킥 프로젝트 링크](https://github.com/Byeong-gook/php-project-finkick)
+
 **Cosiguk**
 
 코시국 (코로나 정보 커뮤니티)
 
 - 캡스톤 디자인으로 시작된 프로젝트
+
+- 2021 LINC + 해카톤 경진대회 우수상 수상 프로젝트
 
 - 서버(백엔드) 및 DB 관리 및 총괄 담당(SpringBoot,JPA,Thyemeleaf 사용) / 프론트(React) / 안드로이드 / IOS 로 파트를 나눠 팀원 4명이서 개발
 
@@ -143,7 +147,6 @@ ___
 - 기간 : 2021.06 ~ 2021.11
 
 -[코시국 프로젝트 링크](https://github.com/Byeong-gook/cosiguk)
-https://github.com/Byeong-gook/cosiguk
 
 ### 타인평가
 
