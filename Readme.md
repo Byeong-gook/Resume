@@ -130,7 +130,7 @@ ___
 
 - 기간 : 2021.3 ~ 2021.6
 
--[핀킥 프로젝트 링크](https://github.com/Byeong-gook/php-project-finkick)
+-[핀킥 프로젝트 링크](https://github.com/castle6116/Finkick)
 
 **Cosiguk**
 
