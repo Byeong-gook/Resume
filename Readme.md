@@ -142,7 +142,7 @@ ___
 - 
 - 기간 : 2021.06 ~ 2021.11
 
--[코시국 프로젝트 링크]([http://zeldahagoshipda.com](https://github.com/Byeong-gook/cosiguk)
+-[코시국 프로젝트 링크](https://github.com/Byeong-gook/cosiguk)
 https://github.com/Byeong-gook/cosiguk
 
 ### 타인평가
